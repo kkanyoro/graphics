@@ -1,0 +1,58 @@
+# Visual Studio / IDE
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.vcxproj.user
+*.sln.docstates
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.VC.opendb
+ipch/
+*.ipch
+*.ncb
+*.sbr
+
+# Build outputs and folders
+x64/
+*/x64/
+Debug/
+Release/
+bin/
+obj/
+build/
+out/
+
+# Compiled objects and libs
+*.exe
+*.dll
+*.lib
+*.so
+*.dylib
+*.o
+*.obj
+*.a
+*.class
+
+# Debug / intermediate files
+*.pdb
+*.ilk
+*.idb
+*.ipdb
+*.log
+*.tlog
+*.lastbuildstate
+*.cache
+
+# Code::Blocks / other generated project files
+*.layout
+*.depend
+*.cbp
+
+# Misc
+Thumbs.db
+desktop.ini
+*.orig
